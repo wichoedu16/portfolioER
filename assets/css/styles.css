@@ -534,12 +534,12 @@ img {
   width: 50%;
 }
 
-.skills__mongodb {
-  width: 65%;
+.skills__aws {
+  width: 35%;
 }
 
 .skills__oforms {
-  width: 65%;
+  width: 50%;
 }
 
 .skills__close .skills__list {
