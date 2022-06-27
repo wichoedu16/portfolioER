@@ -483,19 +483,19 @@ img {
 }
 
 .skills__css {
-  width: 65%;
+  width: 50%;
 }
 
 .skills__js {
-  width: 80%;
+  width: 50%;
 }
 
-.skills__angular {
-  width: 70%;
+.skills__react {
+  width: 50%;
 }
 
-.skills__asp {
-  width: 80%;
+.skills__rf {
+  width: 90%;
 }
 
 .skills__nodejs {
@@ -503,26 +503,22 @@ img {
 }
 
 .skills__csharp {
-  width: 90%;
-}
-
-.skills__lumen {
-  width: 75%;
+  width: 40%;
 }
 
 .skills__java {
-  width: 65%;
+  width: 75%;
 }
 
-.skills__php {
-  width: 70%;
+.skills__atNet {
+  width: 40%;
 }
 
-.skills__springb{
-  width: 55%;
+.skills__docker{
+  width: 40%;
 }
 
-.skills__unity {
+.skills__vmware {
   width: 80%;
 }
 
@@ -535,7 +531,7 @@ img {
 }
 
 .skills__mysql {
-  width: 70%;
+  width: 50%;
 }
 
 .skills__mongodb {
@@ -548,7 +544,7 @@ img {
 
 .skills__close .skills__list {
   height: 0;
-  overflow: hidden;
+  /*overflow: hidden;*/
 }
 
 .skills__open .skills__list {
